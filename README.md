@@ -1,2 +1,2 @@
-# Dataarchitecture
+# Data architecture
 Data architecture project
